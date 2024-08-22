@@ -11,7 +11,7 @@ function App() {
         count = count + 1;
         setCount(count);
       } else {
-        count = count;
+        count = {count};
         setCount(count);
       }
     } else {
@@ -26,7 +26,7 @@ function App() {
         count = count - 1;
         setCount(count);
       } else {
-        count = count;
+        count = {count};
         setCount(count);
       }
     } else {
@@ -38,6 +38,7 @@ function App() {
   return (
     <>
       <h1>my counter</h1>
+
       <span className="number">{count}</span>
       <div className="card">
         <button onClick={addvalue}>count by 1</button>
