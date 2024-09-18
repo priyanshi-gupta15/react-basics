@@ -1,0 +1,47 @@
+##7 beginner React projects for a portfolio
+
+1. To-do apps
+A simple to-do list application is a great React project to start with. Here are the skills you can display through this kind of app:
+
+A basic understanding of CSS, HTML, and Javascript
+Simple creation of different app components and state management
+Simple styling using CSS
+To-do apps are relatively simple to start with, helping you develop your React skills. Thankfully, you can return to this app to add new features based on your current understanding.
+
+2. Image carousels
+Image carousels display a series of images users can easily rotate through. You can use these carousels to display different parts of your portfolio. Here are some skills you develop by working on this project:
+
+State management (through useState)
+Different conditions depending on the location of each image
+Using .map() to help render images
+Styling through CSS
+Image carousels are small portions of a website, meaning they are great as reusable React components. Many of these project ideas can also be used in larger projects, such as building whole websites.
+
+3. Accordion FAQs
+FAQs are another portion of a website that provides simple useful answers to site visitors. Accordion FAQs, in particular, react to clicks to expand or collapse sections.
+
+Like with image carousels, these are great for state management
+Using conditional operators to display or hide content
+Passing text data through components using props
+FAQs can also be found across multiple websites, making them a great project to showcase how your simple apps respond to simple user input (like clicks).
+
+4. Quote generators
+Quote generators grab random quotes from a database, relying on external APIs. By developing generators, here are some skills you can develop and further showcase them in React job interviews:
+
+Making HTTP requests
+Managing asynchronous data
+Displaying your knowledge of the useEffect hook
+Updating the state based on the fetched data
+5. Simple expense trackers
+Expense trackers are another project that can showcase your skills in handling user input. In this case, the input gathers data using forms, and calculations are developed based on this data.
+
+A simple expense tracker can also display transaction history, showing off how useful your developing skills are. Projects like these are also great if you want to create simple user interfaces.
+
+6. Simple search engines
+Simple search engines rely on existing databases (external APIs) to make it easy to find and filter data. As many of the projects discussed, your ability to start integrating external APIs is helpful across many career fields. By creating an app that draws from a database, you can make a useful app showing how you handle user input and render results.
+
+7. Your portfolio website
+One of the most helpful personal projects you can work on is your own site portfolio. Many of the smaller projects on this list, like your image carousels and accordions, can be used to improve your portfolio website.
+
+As you build your frontend and backend development skills, you can return to your website to add new features. Your website is an excellent and simple way to showcase your skills as a beginner or veteran React developer.
+
